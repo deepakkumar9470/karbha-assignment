@@ -1,0 +1,7 @@
+  
+
+   Steps to Run : 
+  
+   1. Auth (frontend & server folder) -: Go inside that folder and npm install and npm start
+   
+   2. Home Page : (raect-home) -: Go inside that folder and npm install and npm start
